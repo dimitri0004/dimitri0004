@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dimitri0004
 - 👀 Je suis un devellopeur fullstack
 - 🌱 Je fait du Sprint boot django rest framework django, symphony , Angular, Flutter
-- 💞️ Je cherche  une persone qui a des projets qu'il devellope dans ces languages
-- 📫 Je cherche egualement du travail 
+- 💞️ Si quelqu'un a des projets sur lesquel il a besoin de main d'oeuvre suis ouvert a la proposition
+- 📫 J'aime pas la paresse et la deconcentration
 
 <!---
 dimitri0004/dimitri0004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
